@@ -1,0 +1,76 @@
+/* Custom CSS for extra styles */
+
+body {
+  background-image: linear-gradient(to bottom right, #ffcc33, #ff3366);
+}
+
+h1 {
+  font-size: 36px;
+}
+
+form input[type="text"] {
+  font-size: 16px;
+  color: #333;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+form button {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+ul li {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.delete-btn,
+.edit-btn {
+  font-size: 24px;
+}
+
+.delete-btn {
+  color: #e53935;
+}
+
+.edit-btn {
+  color: #1976d2;
+}
+
+.delete-btn:hover,
+.edit-btn:hover {
+  transform: scale(1.2);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-muted {
+  color: #888;
+}
+
+.btn-danger {
+  background-color: #d32f2f;
+}
+
+.btn-danger:hover {
+  background-color: #b71c1c;
+}
+
+.alert {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #fff;
+  display: none;
+}
+
+.alert-success {
+  background-color: #43a047;
+}
+
+.alert-danger {
+  background-color: #d32f2f;
+}
