@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-![Alt text](https://github.com/souvik2k21/To-Do-List/blob/main/Screenshot%202023-11-03%20193226.png)https://github.com/souvik2k21/To-Do-List/blob/main/Screenshot%202023-11-03%20193226.png)
+![Alt text](https://github.com/souvik2k21/To-Do-List/blob/main/Screenshot%202023-11-03%20200230.png)
